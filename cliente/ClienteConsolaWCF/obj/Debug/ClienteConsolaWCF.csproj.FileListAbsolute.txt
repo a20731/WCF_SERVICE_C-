@@ -1,0 +1,8 @@
+D:\Servicos\wcf\cliente\ClienteConsolaWCF\bin\Debug\ClienteConsolaWCF.exe.config
+D:\Servicos\wcf\cliente\ClienteConsolaWCF\bin\Debug\ClienteConsolaWCF.exe
+D:\Servicos\wcf\cliente\ClienteConsolaWCF\bin\Debug\ClienteConsolaWCF.pdb
+D:\Servicos\wcf\cliente\ClienteConsolaWCF\obj\Debug\ClienteConsolaWCF.csproj.AssemblyReference.cache
+D:\Servicos\wcf\cliente\ClienteConsolaWCF\obj\Debug\ClienteConsolaWCF.csproj.SuggestedBindingRedirects.cache
+D:\Servicos\wcf\cliente\ClienteConsolaWCF\obj\Debug\ClienteConsolaWCF.csproj.CoreCompileInputs.cache
+D:\Servicos\wcf\cliente\ClienteConsolaWCF\obj\Debug\ClienteConsolaWCF.exe
+D:\Servicos\wcf\cliente\ClienteConsolaWCF\obj\Debug\ClienteConsolaWCF.pdb
